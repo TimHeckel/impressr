@@ -1,7 +1,7 @@
 Impressr.js
 ===============
 
-### Drop-in and simple real-time syncing for impress.js presentations
+### Drop on top of your impress.js project for instant, real-time presentations
 
 jquery.impressR.js is a simple plugin that turns any impress.js presentation into a shared, collaborative experience across all connected clients.
 
